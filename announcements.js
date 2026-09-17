@@ -1,56 +1,56 @@
 // 自动生成，请勿手动修改
-// 生成时间: 2026-09-16 05:06:32
+// 生成时间: 2026-09-17 05:09:33
 
 const ANNOUNCEMENTS_DATA = {
-  "lastUpdate": "2026-09-16 05:06:32",
+  "lastUpdate": "2026-09-17 05:09:33",
   "total": 15,
   "items": [
     {
       "title": "中信校招在招职位（共265个）· 中信集团总部管理培训生",
       "source": "中信集团",
-      "date": "2026-09-16",
+      "date": "2026-09-17",
       "url": "https://job.citic.com/recruit#/index"
     },
     {
       "title": "中信校招在招职位（共265个）· 大众出版营销编辑",
       "source": "中信集团",
-      "date": "2026-09-16",
+      "date": "2026-09-17",
       "url": "https://job.citic.com/recruit#/index"
     },
     {
       "title": "中信校招在招职位（共265个）· 大众出版助理编辑",
       "source": "中信集团",
-      "date": "2026-09-16",
+      "date": "2026-09-17",
       "url": "https://job.citic.com/recruit#/index"
     },
     {
       "title": "中信校招在招职位（共265个）· 网络维护工程师",
       "source": "中信集团",
-      "date": "2026-09-16",
+      "date": "2026-09-17",
       "url": "https://job.citic.com/recruit#/index"
     },
     {
       "title": "中信校招在招职位（共265个）· 商务销售",
       "source": "中信集团",
-      "date": "2026-09-16",
+      "date": "2026-09-17",
       "url": "https://job.citic.com/recruit#/index"
     },
     {
       "title": "中信校招在招职位（共265个）· 人工智能工程师",
       "source": "中信集团",
-      "date": "2026-09-16",
+      "date": "2026-09-17",
       "url": "https://job.citic.com/recruit#/index"
     },
     {
       "title": "中信校招在招职位（共265个）· 软件开发工程师",
       "source": "中信集团",
-      "date": "2026-09-16",
+      "date": "2026-09-17",
       "url": "https://job.citic.com/recruit#/index"
     },
     {
       "title": "中信校招在招职位（共265个）· 中信国安-国安控股-资产运营岗",
       "source": "中信集团",
-      "date": "2026-09-16",
+      "date": "2026-09-17",
       "url": "https://job.citic.com/recruit#/index"
     },
     {
