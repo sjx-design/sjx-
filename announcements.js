@@ -1,57 +1,105 @@
 // 自动生成，请勿手动修改
-// 生成时间: 2026-09-17 05:09:33
+// 生成时间: 2026-09-18 05:01:17
 
 const ANNOUNCEMENTS_DATA = {
-  "lastUpdate": "2026-09-17 05:09:33",
-  "total": 15,
+  "lastUpdate": "2026-09-18 05:01:17",
+  "total": 23,
   "items": [
     {
       "title": "中信校招在招职位（共265个）· 中信集团总部管理培训生",
       "source": "中信集团",
-      "date": "2026-09-17",
+      "date": "2026-09-18",
       "url": "https://job.citic.com/recruit#/index"
     },
     {
       "title": "中信校招在招职位（共265个）· 大众出版营销编辑",
       "source": "中信集团",
-      "date": "2026-09-17",
+      "date": "2026-09-18",
       "url": "https://job.citic.com/recruit#/index"
     },
     {
       "title": "中信校招在招职位（共265个）· 大众出版助理编辑",
       "source": "中信集团",
-      "date": "2026-09-17",
+      "date": "2026-09-18",
       "url": "https://job.citic.com/recruit#/index"
     },
     {
       "title": "中信校招在招职位（共265个）· 网络维护工程师",
       "source": "中信集团",
-      "date": "2026-09-17",
+      "date": "2026-09-18",
       "url": "https://job.citic.com/recruit#/index"
     },
     {
       "title": "中信校招在招职位（共265个）· 商务销售",
       "source": "中信集团",
-      "date": "2026-09-17",
+      "date": "2026-09-18",
       "url": "https://job.citic.com/recruit#/index"
     },
     {
       "title": "中信校招在招职位（共265个）· 人工智能工程师",
       "source": "中信集团",
-      "date": "2026-09-17",
+      "date": "2026-09-18",
       "url": "https://job.citic.com/recruit#/index"
     },
     {
       "title": "中信校招在招职位（共265个）· 软件开发工程师",
       "source": "中信集团",
-      "date": "2026-09-17",
+      "date": "2026-09-18",
       "url": "https://job.citic.com/recruit#/index"
     },
     {
       "title": "中信校招在招职位（共265个）· 中信国安-国安控股-资产运营岗",
       "source": "中信集团",
-      "date": "2026-09-17",
+      "date": "2026-09-18",
       "url": "https://job.citic.com/recruit#/index"
+    },
+    {
+      "title": "中化学校招在招岗位 · 产品经理（具身智能）(001020)",
+      "source": "中化学国际",
+      "date": "2026-09-18",
+      "url": "https://cncec.iguopin.com/job"
+    },
+    {
+      "title": "中化学校招在招岗位 · 开发工程师(001023)",
+      "source": "中化学国际",
+      "date": "2026-09-18",
+      "url": "https://cncec.iguopin.com/job"
+    },
+    {
+      "title": "中化学校招在招岗位 · 需求分析岗(001024)",
+      "source": "中化学国际",
+      "date": "2026-09-18",
+      "url": "https://cncec.iguopin.com/job"
+    },
+    {
+      "title": "中化学校招在招岗位 · 化工操作工(000732)",
+      "source": "中化学国际",
+      "date": "2026-09-18",
+      "url": "https://cncec.iguopin.com/job"
+    },
+    {
+      "title": "中化学校招在招岗位 · 财务管理岗(000865)",
+      "source": "中化学国际",
+      "date": "2026-09-18",
+      "url": "https://cncec.iguopin.com/job"
+    },
+    {
+      "title": "中化学校招在招岗位 · 党建工作岗(000866)",
+      "source": "中化学国际",
+      "date": "2026-09-18",
+      "url": "https://cncec.iguopin.com/job"
+    },
+    {
+      "title": "中化学校招在招岗位 · 项目管理岗(000867)",
+      "source": "中化学国际",
+      "date": "2026-09-18",
+      "url": "https://cncec.iguopin.com/job"
+    },
+    {
+      "title": "中化学校招在招岗位 · 安全员",
+      "source": "中化学国际",
+      "date": "2026-09-18",
+      "url": "https://cncec.iguopin.com/job"
     },
     {
       "title": "关于对2026年京外生源高校毕业生接收情况进行公示的通知",
