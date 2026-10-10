@@ -1,105 +1,57 @@
 // 自动生成，请勿手动修改
-// 生成时间: 2026-10-09 06:30:31
+// 生成时间: 2026-10-10 06:14:28
 
 const ANNOUNCEMENTS_DATA = {
-  "lastUpdate": "2026-10-09 06:30:31",
-  "total": 23,
+  "lastUpdate": "2026-10-10 06:14:28",
+  "total": 15,
   "items": [
     {
-      "title": "中信校招在招职位（共238个）· 业务类岗",
+      "title": "中信校招在招职位（共222个）· 业务类岗",
       "source": "中信集团",
-      "date": "2026-10-09",
+      "date": "2026-10-10",
       "url": "https://job.citic.com/recruit#/index"
     },
     {
-      "title": "中信校招在招职位（共238个）· 《财经网》汽车视频编辑/运营",
+      "title": "中信校招在招职位（共222个）· 《财经网》汽车视频编辑/运营",
       "source": "中信集团",
-      "date": "2026-10-09",
+      "date": "2026-10-10",
       "url": "https://job.citic.com/recruit#/index"
     },
     {
-      "title": "中信校招在招职位（共238个）· 《财经网》汽车文字记者/编辑",
+      "title": "中信校招在招职位（共222个）· 《财经网》汽车文字记者/编辑",
       "source": "中信集团",
-      "date": "2026-10-09",
+      "date": "2026-10-10",
       "url": "https://job.citic.com/recruit#/index"
     },
     {
-      "title": "中信校招在招职位（共238个）· 《财经》杂志编辑部资本证券组研究员",
+      "title": "中信校招在招职位（共222个）· 《财经》杂志编辑部资本证券组研究员",
       "source": "中信集团",
-      "date": "2026-10-09",
+      "date": "2026-10-10",
       "url": "https://job.citic.com/recruit#/index"
     },
     {
-      "title": "中信校招在招职位（共238个）· 《财经》杂志编辑部编委会助理",
+      "title": "中信校招在招职位（共222个）· 《财经》杂志编辑部编委会助理",
       "source": "中信集团",
-      "date": "2026-10-09",
+      "date": "2026-10-10",
       "url": "https://job.citic.com/recruit#/index"
     },
     {
-      "title": "中信校招在招职位（共238个）· 研发实习生",
+      "title": "中信校招在招职位（共222个）· 研发实习生",
       "source": "中信集团",
-      "date": "2026-10-09",
+      "date": "2026-10-10",
       "url": "https://job.citic.com/recruit#/index"
     },
     {
-      "title": "中信校招在招职位（共238个）· 职能部门实习生",
+      "title": "中信校招在招职位（共222个）· 职能部门实习生",
       "source": "中信集团",
-      "date": "2026-10-09",
+      "date": "2026-10-10",
       "url": "https://job.citic.com/recruit#/index"
     },
     {
-      "title": "中信校招在招职位（共238个）· 电气设计",
+      "title": "中信校招在招职位（共222个）· 电气设计",
       "source": "中信集团",
-      "date": "2026-10-09",
+      "date": "2026-10-10",
       "url": "https://job.citic.com/recruit#/index"
-    },
-    {
-      "title": "中化学校招在招岗位 · 俄语翻译",
-      "source": "中化学国际",
-      "date": "2026-10-09",
-      "url": "https://cncec.iguopin.com/job"
-    },
-    {
-      "title": "中化学校招在招岗位 · 精细化工研发工程师(000793)",
-      "source": "中化学国际",
-      "date": "2026-10-09",
-      "url": "https://cncec.iguopin.com/job"
-    },
-    {
-      "title": "中化学校招在招岗位 · ERP实施顾问(001025)",
-      "source": "中化学国际",
-      "date": "2026-10-09",
-      "url": "https://cncec.iguopin.com/job"
-    },
-    {
-      "title": "中化学校招在招岗位 · 海外管理人员",
-      "source": "中化学国际",
-      "date": "2026-10-09",
-      "url": "https://cncec.iguopin.com/job"
-    },
-    {
-      "title": "中化学校招在招岗位 · 产品经理（具身智能）(001020)",
-      "source": "中化学国际",
-      "date": "2026-10-09",
-      "url": "https://cncec.iguopin.com/job"
-    },
-    {
-      "title": "中化学校招在招岗位 · 开发工程师(001023)",
-      "source": "中化学国际",
-      "date": "2026-10-09",
-      "url": "https://cncec.iguopin.com/job"
-    },
-    {
-      "title": "中化学校招在招岗位 · 需求分析岗(001024)",
-      "source": "中化学国际",
-      "date": "2026-10-09",
-      "url": "https://cncec.iguopin.com/job"
-    },
-    {
-      "title": "中化学校招在招岗位 · 化工操作工(000732)",
-      "source": "中化学国际",
-      "date": "2026-10-09",
-      "url": "https://cncec.iguopin.com/job"
     },
     {
       "title": "中航集团（国航股份）2026年国际化人才人工智能专家招聘简章",
