@@ -1,63 +1,69 @@
 // 自动生成，请勿手动修改
-// 生成时间: 2026-10-23 05:22:13
+// 生成时间: 2026-10-24 04:56:02
 
 const ANNOUNCEMENTS_DATA = {
-  "lastUpdate": "2026-10-23 05:22:13",
-  "total": 20,
+  "lastUpdate": "2026-10-24 04:56:02",
+  "total": 19,
   "items": [
     {
       "title": "关于防范以国航名义进行招聘诈骗的温馨提示！",
       "source": "国航招聘",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "url": "https://zhaopin.airchina.com.cn/notice/2025/11/185494.shtml"
     },
     {
       "title": "中信校招在招职位（共190个）· 菁英人才（渠道类）",
       "source": "中信集团",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "url": "https://job.citic.com/recruit#/index"
     },
     {
       "title": "中信校招在招职位（共190个）· 菁英人才（科技类）",
       "source": "中信集团",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "url": "https://job.citic.com/recruit#/index"
     },
     {
       "title": "中信校招在招职位（共190个）· 菁英人才（精算类）",
       "source": "中信集团",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "url": "https://job.citic.com/recruit#/index"
     },
     {
       "title": "中信校招在招职位（共190个）· 菁英人才（综合类）",
       "source": "中信集团",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "url": "https://job.citic.com/recruit#/index"
     },
     {
       "title": "中信校招在招职位（共190个）· 协同统筹岗",
       "source": "中信集团",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "url": "https://job.citic.com/recruit#/index"
     },
     {
       "title": "中信校招在招职位（共190个）· 业务类岗（聚信）",
       "source": "中信集团",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "url": "https://job.citic.com/recruit#/index"
     },
     {
       "title": "中信校招在招职位（共190个）· 业务类岗",
       "source": "中信集团",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "url": "https://job.citic.com/recruit#/index"
     },
     {
       "title": "中信校招在招职位（共190个）· 《财经网》汽车视频编辑/运营",
       "source": "中信集团",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "url": "https://job.citic.com/recruit#/index"
+    },
+    {
+      "title": "深圳航空有限责任公司机务及签派类岗位2027届高校毕业生校园招聘简章",
+      "source": "国航招聘",
+      "date": "2026-10-23",
+      "url": "https://zhaopin.airchina.com.cn/recruitment/infomation/10/185722.shtml"
     },
     {
       "title": "中国国际航空股份有限公司统招岗位2027届高校毕业生校园招聘简章",
@@ -70,18 +76,6 @@ const ANNOUNCEMENTS_DATA = {
       "source": "国航招聘",
       "date": "2026-10-20",
       "url": "https://zhaopin.airchina.com.cn/recruitment/infomation/10/185704.shtml"
-    },
-    {
-      "title": "中国国际货运航空股份有限公司信息技术岗位2027届高校毕业生校园招聘简章",
-      "source": "国航招聘",
-      "date": "2026-10-20",
-      "url": "https://zhaopin.airchina.com.cn/recruitment/infomation/10/185702.shtml"
-    },
-    {
-      "title": "中国国际货运航空股份有限公司综合业务岗位2027届高校毕业生校园招聘简章",
-      "source": "国航招聘",
-      "date": "2026-10-20",
-      "url": "https://zhaopin.airchina.com.cn/recruitment/infomation/10/185700.shtml"
     },
     {
       "title": "中航集团（国航股份）管理储备生岗位2027届高校毕业生校园招聘简章",
