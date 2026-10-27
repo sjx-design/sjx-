@@ -1,110 +1,110 @@
 // 自动生成，请勿手动修改
-// 生成时间: 2026-10-26 05:09:41
+// 生成时间: 2026-10-27 05:24:52
 
 const ANNOUNCEMENTS_DATA = {
-  "lastUpdate": "2026-10-26 05:09:41",
-  "total": 27,
+  "lastUpdate": "2026-10-27 05:24:52",
+  "total": 23,
   "items": [
     {
       "title": "关于防范以国航名义进行招聘诈骗的温馨提示！",
       "source": "国航招聘",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "url": "https://zhaopin.airchina.com.cn/notice/2025/11/185494.shtml"
     },
     {
       "title": "中信校招在招职位（共190个）· 菁英人才（渠道类）",
       "source": "中信集团",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "url": "https://job.citic.com/recruit#/index"
     },
     {
       "title": "中信校招在招职位（共190个）· 菁英人才（科技类）",
       "source": "中信集团",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "url": "https://job.citic.com/recruit#/index"
     },
     {
       "title": "中信校招在招职位（共190个）· 菁英人才（精算类）",
       "source": "中信集团",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "url": "https://job.citic.com/recruit#/index"
     },
     {
       "title": "中信校招在招职位（共190个）· 菁英人才（综合类）",
       "source": "中信集团",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "url": "https://job.citic.com/recruit#/index"
     },
     {
       "title": "中信校招在招职位（共190个）· 协同统筹岗",
       "source": "中信集团",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "url": "https://job.citic.com/recruit#/index"
     },
     {
       "title": "中信校招在招职位（共190个）· 业务类岗（聚信）",
       "source": "中信集团",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "url": "https://job.citic.com/recruit#/index"
     },
     {
       "title": "中信校招在招职位（共190个）· 业务类岗",
       "source": "中信集团",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "url": "https://job.citic.com/recruit#/index"
     },
     {
       "title": "中信校招在招职位（共190个）· 《财经网》汽车视频编辑/运营",
       "source": "中信集团",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "url": "https://job.citic.com/recruit#/index"
     },
     {
       "title": "中化学校招在招岗位 · 安全员",
       "source": "中化学国际",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "url": "https://cncec.iguopin.com/job"
     },
     {
       "title": "中化学校招在招岗位 · 电气技术岗（招聘2026届）",
       "source": "中化学国际",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "url": "https://cncec.iguopin.com/job"
     },
     {
       "title": "中化学校招在招岗位 · 安装技术岗（招聘2026届大学生）",
       "source": "中化学国际",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "url": "https://cncec.iguopin.com/job"
     },
     {
       "title": "中化学校招在招岗位 · 俄语翻译",
       "source": "中化学国际",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "url": "https://cncec.iguopin.com/job"
     },
     {
       "title": "中化学校招在招岗位 · 精细化工研发工程师(000793)",
       "source": "中化学国际",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "url": "https://cncec.iguopin.com/job"
     },
     {
       "title": "中化学校招在招岗位 · ERP实施顾问(001025)",
       "source": "中化学国际",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "url": "https://cncec.iguopin.com/job"
     },
     {
       "title": "中化学校招在招岗位 · 海外管理人员",
       "source": "中化学国际",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "url": "https://cncec.iguopin.com/job"
     },
     {
       "title": "中化学校招在招岗位 · 产品经理（具身智能）(001020)",
       "source": "中化学国际",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "url": "https://cncec.iguopin.com/job"
     },
     {
@@ -138,34 +138,10 @@ const ANNOUNCEMENTS_DATA = {
       "url": "https://www.sinosure.com.cn/rczp/220642.shtml"
     },
     {
-      "title": "中国进出口银行2026年社会招聘启事2026-08-12",
-      "source": "进出口银行",
-      "date": "2026-08-12",
-      "url": "http://www.eximbank.gov.cn/202608/t20260812_76952.html"
-    },
-    {
-      "title": "区域信用担保与投资基金（CGIF）总法律顾问兼董事会秘书岗位招聘启事2026-05-14",
-      "source": "进出口银行",
-      "date": "2026-05-14",
-      "url": "http://www.eximbank.gov.cn/202605/P020260514328224226120.pdf"
-    },
-    {
-      "title": "中国进出口银行2026年校园招聘公告2025-10-29",
-      "source": "进出口银行",
-      "date": "2025-10-29",
-      "url": "http://www.eximbank.gov.cn/202510/t20251029_70302.html"
-    },
-    {
       "title": "关于对2025年京外生源高校毕业生接收情况进行公示的通知",
       "source": "中国信保",
       "date": "2025-09-16",
       "url": "https://www.sinosure.com.cn/rczp/220256.shtml"
-    },
-    {
-      "title": "中国进出口银行总行2025年系统开发岗专项校园招聘公告2025-05-13",
-      "source": "进出口银行",
-      "date": "2025-05-13",
-      "url": "http://www.eximbank.gov.cn/202505/t20250513_66440.html"
     }
   ],
   "manualSites": [
