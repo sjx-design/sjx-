@@ -1,110 +1,62 @@
 // 自动生成，请勿手动修改
-// 生成时间: 2026-10-31 06:07:36
+// 生成时间: 2026-11-01 06:37:58
 
 const ANNOUNCEMENTS_DATA = {
-  "lastUpdate": "2026-10-31 06:07:36",
-  "total": 28,
+  "lastUpdate": "2026-11-01 06:37:58",
+  "total": 20,
   "items": [
     {
       "title": "关于防范以国航名义进行招聘诈骗的温馨提示！",
       "source": "国航招聘",
-      "date": "2026-10-31",
+      "date": "2026-11-01",
       "url": "https://zhaopin.airchina.com.cn/notice/2025/11/185494.shtml"
-    },
-    {
-      "title": "中信校招在招职位（共175个）· 菁英人才（渠道类）",
-      "source": "中信集团",
-      "date": "2026-10-31",
-      "url": "https://job.citic.com/recruit#/index"
-    },
-    {
-      "title": "中信校招在招职位（共175个）· 菁英人才（科技类）",
-      "source": "中信集团",
-      "date": "2026-10-31",
-      "url": "https://job.citic.com/recruit#/index"
-    },
-    {
-      "title": "中信校招在招职位（共175个）· 菁英人才（精算类）",
-      "source": "中信集团",
-      "date": "2026-10-31",
-      "url": "https://job.citic.com/recruit#/index"
-    },
-    {
-      "title": "中信校招在招职位（共175个）· 菁英人才（综合类）",
-      "source": "中信集团",
-      "date": "2026-10-31",
-      "url": "https://job.citic.com/recruit#/index"
-    },
-    {
-      "title": "中信校招在招职位（共175个）· 协同统筹岗",
-      "source": "中信集团",
-      "date": "2026-10-31",
-      "url": "https://job.citic.com/recruit#/index"
-    },
-    {
-      "title": "中信校招在招职位（共175个）· 业务类岗（聚信）",
-      "source": "中信集团",
-      "date": "2026-10-31",
-      "url": "https://job.citic.com/recruit#/index"
-    },
-    {
-      "title": "中信校招在招职位（共175个）· 业务类岗",
-      "source": "中信集团",
-      "date": "2026-10-31",
-      "url": "https://job.citic.com/recruit#/index"
-    },
-    {
-      "title": "中信校招在招职位（共175个）· 《财经网》汽车视频编辑/运营",
-      "source": "中信集团",
-      "date": "2026-10-31",
-      "url": "https://job.citic.com/recruit#/index"
     },
     {
       "title": "中化学校招在招岗位 · 进度计划工程师(000959)",
       "source": "中化学国际",
-      "date": "2026-10-31",
+      "date": "2026-11-01",
       "url": "https://cncec.iguopin.com/job"
     },
     {
       "title": "中化学校招在招岗位 · 财务专员(000963)",
       "source": "中化学国际",
-      "date": "2026-10-31",
+      "date": "2026-11-01",
       "url": "https://cncec.iguopin.com/job"
     },
     {
       "title": "中化学校招在招岗位 · 化工管道工程师(000964)",
       "source": "中化学国际",
-      "date": "2026-10-31",
+      "date": "2026-11-01",
       "url": "https://cncec.iguopin.com/job"
     },
     {
       "title": "中化学校招在招岗位 · 化工工艺工程师(000958)",
       "source": "中化学国际",
-      "date": "2026-10-31",
+      "date": "2026-11-01",
       "url": "https://cncec.iguopin.com/job"
     },
     {
       "title": "中化学校招在招岗位 · 热工工程师(000971)",
       "source": "中化学国际",
-      "date": "2026-10-31",
+      "date": "2026-11-01",
       "url": "https://cncec.iguopin.com/job"
     },
     {
       "title": "中化学校招在招岗位 · 采购工程师(000975)",
       "source": "中化学国际",
-      "date": "2026-10-31",
+      "date": "2026-11-01",
       "url": "https://cncec.iguopin.com/job"
     },
     {
       "title": "中化学校招在招岗位 · 给排水工程师(000980)",
       "source": "中化学国际",
-      "date": "2026-10-31",
+      "date": "2026-11-01",
       "url": "https://cncec.iguopin.com/job"
     },
     {
       "title": "中化学校招在招岗位 · 自控工程师(000977)",
       "source": "中化学国际",
-      "date": "2026-10-31",
+      "date": "2026-11-01",
       "url": "https://cncec.iguopin.com/job"
     },
     {
