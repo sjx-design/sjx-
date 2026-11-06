@@ -1,110 +1,116 @@
 // 自动生成，请勿手动修改
-// 生成时间: 2026-11-05 07:12:05
+// 生成时间: 2026-11-06 07:11:25
 
 const ANNOUNCEMENTS_DATA = {
-  "lastUpdate": "2026-11-05 07:12:05",
+  "lastUpdate": "2026-11-06 07:11:25",
   "total": 28,
   "items": [
     {
       "title": "关于防范以国航名义进行招聘诈骗的温馨提示！",
       "source": "国航招聘",
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "url": "https://zhaopin.airchina.com.cn/notice/2025/11/185494.shtml"
+    },
+    {
+      "title": "山东航空股份有限公司双证安全员岗位2027届高校毕业生校园招聘简章",
+      "source": "国航招聘",
+      "date": "2026-11-06",
+      "url": "https://zhaopin.airchina.com.cn/recruitment/infomation/11/185763.shtml"
     },
     {
       "title": "中信校招在招职位（共172个）· 《财经》杂志整合营销专员",
       "source": "中信集团",
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "url": "https://job.citic.com/recruit#/index"
     },
     {
       "title": "中信校招在招职位（共172个）· 协同统筹岗",
       "source": "中信集团",
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "url": "https://job.citic.com/recruit#/index"
     },
     {
       "title": "中信校招在招职位（共172个）· 业务类岗（聚信）",
       "source": "中信集团",
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "url": "https://job.citic.com/recruit#/index"
     },
     {
       "title": "中信校招在招职位（共172个）· 业务类岗",
       "source": "中信集团",
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "url": "https://job.citic.com/recruit#/index"
     },
     {
       "title": "中信校招在招职位（共172个）· 《财经网》汽车视频编辑/运营",
       "source": "中信集团",
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "url": "https://job.citic.com/recruit#/index"
     },
     {
       "title": "中信校招在招职位（共172个）· 《财经网》汽车文字记者/编辑",
       "source": "中信集团",
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "url": "https://job.citic.com/recruit#/index"
     },
     {
       "title": "中信校招在招职位（共172个）· 《财经》杂志编辑部资本证券组研究员",
       "source": "中信集团",
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "url": "https://job.citic.com/recruit#/index"
     },
     {
       "title": "中信校招在招职位（共172个）· 《财经》杂志编辑部编委会助理",
       "source": "中信集团",
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "url": "https://job.citic.com/recruit#/index"
+    },
+    {
+      "title": "中化学校招在招岗位 · 安装技术岗",
+      "source": "中化学国际",
+      "date": "2026-11-06",
+      "url": "https://cncec.iguopin.com/job"
     },
     {
       "title": "中化学校招在招岗位 · 管道技术员",
       "source": "中化学国际",
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "url": "https://cncec.iguopin.com/job"
     },
     {
       "title": "中化学校招在招岗位 · 焊接技术员",
       "source": "中化学国际",
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "url": "https://cncec.iguopin.com/job"
     },
     {
       "title": "中化学校招在招岗位 · 党务专员",
       "source": "中化学国际",
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "url": "https://cncec.iguopin.com/job"
     },
     {
       "title": "中化学校招在招岗位 · 人力资源专员",
       "source": "中化学国际",
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "url": "https://cncec.iguopin.com/job"
     },
     {
       "title": "中化学校招在招岗位 · 质量管理专员",
       "source": "中化学国际",
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "url": "https://cncec.iguopin.com/job"
     },
     {
       "title": "中化学校招在招岗位 · 研究员（博士）",
       "source": "中化学国际",
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "url": "https://cncec.iguopin.com/job"
     },
     {
       "title": "中化学校招在招岗位 · 施工管理师",
       "source": "中化学国际",
-      "date": "2026-11-05",
-      "url": "https://cncec.iguopin.com/job"
-    },
-    {
-      "title": "中化学校招在招岗位 · 结构设计师",
-      "source": "中化学国际",
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "url": "https://cncec.iguopin.com/job"
     },
     {
@@ -112,12 +118,6 @@ const ANNOUNCEMENTS_DATA = {
       "source": "进出口银行",
       "date": "2026-10-30",
       "url": "http://www.eximbank.gov.cn/202610/t20261030_78758.html"
-    },
-    {
-      "title": "国航股份西南分公司乘务员岗位2027届高校毕业生校园招聘简章",
-      "source": "国航招聘",
-      "date": "2026-10-29",
-      "url": "https://zhaopin.airchina.com.cn/recruitment/infomation/10/185741.shtml"
     },
     {
       "title": "中国国际航空股份有限公司统招岗位2027届高校毕业生校园招聘简章",
