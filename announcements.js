@@ -1,117 +1,117 @@
 // 自动生成，请勿手动修改
-// 生成时间: 2026-11-13 07:04:57
+// 生成时间: 2026-11-14 06:54:01
 
 const ANNOUNCEMENTS_DATA = {
-  "lastUpdate": "2026-11-13 07:04:57",
-  "total": 28,
+  "lastUpdate": "2026-11-14 06:54:01",
+  "total": 26,
   "items": [
     {
       "title": "关于防范以国航名义进行招聘诈骗的温馨提示！",
       "source": "国航招聘",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "url": "https://zhaopin.airchina.com.cn/notice/2025/11/185494.shtml"
+    },
+    {
+      "title": "中信校招在招职位（共168个）· 《财经》杂志整合营销专员",
+      "source": "中信集团",
+      "date": "2026-11-14",
+      "url": "https://job.citic.com/recruit#/index"
+    },
+    {
+      "title": "中信校招在招职位（共168个）· 《财经网》汽车视频编辑/运营",
+      "source": "中信集团",
+      "date": "2026-11-14",
+      "url": "https://job.citic.com/recruit#/index"
+    },
+    {
+      "title": "中信校招在招职位（共168个）· 《财经网》汽车文字记者/编辑",
+      "source": "中信集团",
+      "date": "2026-11-14",
+      "url": "https://job.citic.com/recruit#/index"
+    },
+    {
+      "title": "中信校招在招职位（共168个）· 《财经》杂志编辑部资本证券组研究员",
+      "source": "中信集团",
+      "date": "2026-11-14",
+      "url": "https://job.citic.com/recruit#/index"
+    },
+    {
+      "title": "中信校招在招职位（共168个）· 《财经》杂志编辑部编委会助理",
+      "source": "中信集团",
+      "date": "2026-11-14",
+      "url": "https://job.citic.com/recruit#/index"
+    },
+    {
+      "title": "中信校招在招职位（共168个）· 研发实习生",
+      "source": "中信集团",
+      "date": "2026-11-14",
+      "url": "https://job.citic.com/recruit#/index"
+    },
+    {
+      "title": "中信校招在招职位（共168个）· 职能部门实习生",
+      "source": "中信集团",
+      "date": "2026-11-14",
+      "url": "https://job.citic.com/recruit#/index"
+    },
+    {
+      "title": "中信校招在招职位（共168个）· 电气设计",
+      "source": "中信集团",
+      "date": "2026-11-14",
+      "url": "https://job.citic.com/recruit#/index"
+    },
+    {
+      "title": "中化学校招在招岗位 · 高性能树脂研发工程师",
+      "source": "中化学国际",
+      "date": "2026-11-14",
+      "url": "https://cncec.iguopin.com/job"
+    },
+    {
+      "title": "中化学校招在招岗位 · 翻译（英语、俄语）",
+      "source": "中化学国际",
+      "date": "2026-11-14",
+      "url": "https://cncec.iguopin.com/job"
+    },
+    {
+      "title": "中化学校招在招岗位 · 人工智能研发工程师",
+      "source": "中化学国际",
+      "date": "2026-11-14",
+      "url": "https://cncec.iguopin.com/job"
+    },
+    {
+      "title": "中化学校招在招岗位 · 生物合成研发工程师",
+      "source": "中化学国际",
+      "date": "2026-11-14",
+      "url": "https://cncec.iguopin.com/job"
+    },
+    {
+      "title": "中化学校招在招岗位 · 聚烯烃研发工程师",
+      "source": "中化学国际",
+      "date": "2026-11-14",
+      "url": "https://cncec.iguopin.com/job"
+    },
+    {
+      "title": "中化学校招在招岗位 · 合成研发工程师",
+      "source": "中化学国际",
+      "date": "2026-11-14",
+      "url": "https://cncec.iguopin.com/job"
+    },
+    {
+      "title": "中化学校招在招岗位 · 设备设计工程师(000895)",
+      "source": "中化学国际",
+      "date": "2026-11-14",
+      "url": "https://cncec.iguopin.com/job"
+    },
+    {
+      "title": "中化学校招在招岗位 · 工艺设计工程师(000894)",
+      "source": "中化学国际",
+      "date": "2026-11-14",
+      "url": "https://cncec.iguopin.com/job"
     },
     {
       "title": "中国国际航空股份有限公司2027年度招收高中飞行学生简章（重庆市）",
       "source": "国航招聘",
       "date": "2026-11-13",
       "url": "https://zhaopin.airchina.com.cn/recruitment/infomation/11/185824.shtml"
-    },
-    {
-      "title": "中信校招在招职位（共168个）· 《财经》杂志整合营销专员",
-      "source": "中信集团",
-      "date": "2026-11-13",
-      "url": "https://job.citic.com/recruit#/index"
-    },
-    {
-      "title": "中信校招在招职位（共168个）· 《财经网》汽车视频编辑/运营",
-      "source": "中信集团",
-      "date": "2026-11-13",
-      "url": "https://job.citic.com/recruit#/index"
-    },
-    {
-      "title": "中信校招在招职位（共168个）· 《财经网》汽车文字记者/编辑",
-      "source": "中信集团",
-      "date": "2026-11-13",
-      "url": "https://job.citic.com/recruit#/index"
-    },
-    {
-      "title": "中信校招在招职位（共168个）· 《财经》杂志编辑部资本证券组研究员",
-      "source": "中信集团",
-      "date": "2026-11-13",
-      "url": "https://job.citic.com/recruit#/index"
-    },
-    {
-      "title": "中信校招在招职位（共168个）· 《财经》杂志编辑部编委会助理",
-      "source": "中信集团",
-      "date": "2026-11-13",
-      "url": "https://job.citic.com/recruit#/index"
-    },
-    {
-      "title": "中信校招在招职位（共168个）· 研发实习生",
-      "source": "中信集团",
-      "date": "2026-11-13",
-      "url": "https://job.citic.com/recruit#/index"
-    },
-    {
-      "title": "中信校招在招职位（共168个）· 职能部门实习生",
-      "source": "中信集团",
-      "date": "2026-11-13",
-      "url": "https://job.citic.com/recruit#/index"
-    },
-    {
-      "title": "中信校招在招职位（共168个）· 电气设计",
-      "source": "中信集团",
-      "date": "2026-11-13",
-      "url": "https://job.citic.com/recruit#/index"
-    },
-    {
-      "title": "中化学校招在招岗位 · 人工智能研发工程师",
-      "source": "中化学国际",
-      "date": "2026-11-13",
-      "url": "https://cncec.iguopin.com/job"
-    },
-    {
-      "title": "中化学校招在招岗位 · 生物合成研发工程师",
-      "source": "中化学国际",
-      "date": "2026-11-13",
-      "url": "https://cncec.iguopin.com/job"
-    },
-    {
-      "title": "中化学校招在招岗位 · 聚烯烃研发工程师",
-      "source": "中化学国际",
-      "date": "2026-11-13",
-      "url": "https://cncec.iguopin.com/job"
-    },
-    {
-      "title": "中化学校招在招岗位 · 合成研发工程师",
-      "source": "中化学国际",
-      "date": "2026-11-13",
-      "url": "https://cncec.iguopin.com/job"
-    },
-    {
-      "title": "中化学校招在招岗位 · 设备设计工程师(000895)",
-      "source": "中化学国际",
-      "date": "2026-11-13",
-      "url": "https://cncec.iguopin.com/job"
-    },
-    {
-      "title": "中化学校招在招岗位 · 工艺设计工程师(000894)",
-      "source": "中化学国际",
-      "date": "2026-11-13",
-      "url": "https://cncec.iguopin.com/job"
-    },
-    {
-      "title": "中化学校招在招岗位 · 工艺技术操作岗",
-      "source": "中化学国际",
-      "date": "2026-11-13",
-      "url": "https://cncec.iguopin.com/job"
-    },
-    {
-      "title": "中化学校招在招岗位 · 经营预算岗",
-      "source": "中化学国际",
-      "date": "2026-11-13",
-      "url": "https://cncec.iguopin.com/job"
     },
     {
       "title": "中国进出口银行2027年校园招聘公告2026-10-30",
@@ -138,12 +138,6 @@ const ANNOUNCEMENTS_DATA = {
       "url": "https://zhaopin.airchina.com.cn/recruitment/infomation/10/185603.shtml"
     },
     {
-      "title": "关于对2026年京外生源高校毕业生接收情况进行公示的通知",
-      "source": "中国信保",
-      "date": "2026-09-15",
-      "url": "https://www.sinosure.com.cn/rczp/220642.shtml"
-    },
-    {
       "title": "中国进出口银行2026年社会招聘启事2026-08-12",
       "source": "进出口银行",
       "date": "2026-08-12",
@@ -160,12 +154,6 @@ const ANNOUNCEMENTS_DATA = {
       "source": "进出口银行",
       "date": "2025-10-29",
       "url": "http://www.eximbank.gov.cn/202510/t20251029_70302.html"
-    },
-    {
-      "title": "关于对2025年京外生源高校毕业生接收情况进行公示的通知",
-      "source": "中国信保",
-      "date": "2025-09-16",
-      "url": "https://www.sinosure.com.cn/rczp/220256.shtml"
     },
     {
       "title": "中国进出口银行总行2025年系统开发岗专项校园招聘公告2025-05-13",
